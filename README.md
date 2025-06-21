@@ -8,9 +8,13 @@ Bank_loan_analysis.pbix: The Power BI report file containing data modeling, visu
 
 🔍 Key Insights
  .Total loan applications by month and year
+ 
  .Approval vs rejection rates
+ 
  .Income band segmentation
+ 
  .Risk profile classification
+ 
  .Loan purpose and performance analysis
 
 🛠 Tools Used
